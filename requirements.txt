@@ -7,5 +7,4 @@ shap
 matplotlib
 requests
 scikit-learn==1.6.1
-xgboost
-lightgbm
+xgboost==3.1.2
